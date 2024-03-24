@@ -7,3 +7,4 @@ Explore Phase
 Adapt Phase
 Close Phase
 ![image](https://github.com/velumulaaravindreddy/projectDevops-1/assets/164578951/b50e25f2-fd68-4768-99f1-cff20d181d7c)
+
